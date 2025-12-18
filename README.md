@@ -1,4 +1,4 @@
-# 🔍 Multilingual Data Journalist & OSINT Researcher
+# 🔍 Multilingual Data Journalist and OSINT Researcher
 
 Multilingual data journalist, researcher, and creative writer with media monitoring, open-source intelligence (OSINT) and digital visualisation skills. Skilled in sourcing, analysing, visualising datasets and processing news alerts under tight deadlines. 
 ## 🧰 Core Competencies
@@ -16,7 +16,7 @@ Multilingual data journalist, researcher, and creative writer with media monitor
 
 **Journalist & Researcher – BBC Monitoring, London** | Apr 2023 – Present
 
-**Freelance Interpreter – ITS, City of Edinburgh Council** | Apr 2022 – Mar 2023
+**Interpreter – ITS, City of Edinburgh Council** | Apr 2022 – Mar 2023
 
 **Journalist & Researcher – BBC Monitoring, Herat, Afghanistan** | Nov 2017 – Aug 2021
 
