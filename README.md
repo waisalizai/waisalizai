@@ -7,7 +7,7 @@ I am skilled in sourcing, analysing, and visualising datasets, processing explai
 ## Technical Skills
 Python, JavaScript, D3.js visualisations, Flourish, Datawrapper, intermediate SQL, web and mobile application development
 
-## 🤝 Contact
+## Contact
 - Email: wais.ahmad.alizai@gmail.com
    
 - LinkedIn: www.linkedin.com/in/waisahmadalizai
