@@ -13,6 +13,8 @@ https://waisalizai.github.io/uni_final_project/
 
 https://waisalizai.github.io/US_tarriffs/
 
+https://waisalizai.github.io/Afghan_mining_project/
+
 ## Contact
 - Email: wais.ahmad.alizai@gmail.com
    
