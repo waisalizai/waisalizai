@@ -11,6 +11,8 @@ Python, JavaScript, D3.js visualisations, Flourish, Datawrapper, intermediate SQ
 
 https://waisalizai.github.io/uni_final_project/
 
+https://waisalizai.github.io/US_tarriffs/
+
 ## Contact
 - Email: wais.ahmad.alizai@gmail.com
    
