@@ -15,6 +15,8 @@ https://waisalizai.github.io/US_tarriffs/
 
 https://waisalizai.github.io/Afghan_mining_project/
 
+https://waisalizai.github.io/calculate-your-body-mass-index-/
+
 ## Contact
 - Email: wais.ahmad.alizai@gmail.com
    
