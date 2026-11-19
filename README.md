@@ -17,10 +17,7 @@ https://waisalizai.github.io/Afghan_mining_project/
 
 https://waisalizai.github.io/calculate-your-body-mass-index-/
 
-## Contact
-- Email: wais.ahmad.alizai@gmail.com
-   
-- LinkedIn: www.linkedin.com/in/waisahmadalizai
+
 
 
 
